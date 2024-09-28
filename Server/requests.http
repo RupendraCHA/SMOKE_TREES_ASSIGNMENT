@@ -1,0 +1,12 @@
+###
+POST http://localhost:3000/register
+content-type: "application/json"
+
+{
+    "id": 1,
+    "name": "Rupendra",
+    "address": "Rudravaram",
+    "city": "Ongole",
+    "state": "Andhra Pradesh",
+    "country": "India"
+}
