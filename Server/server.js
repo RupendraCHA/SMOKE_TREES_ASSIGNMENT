@@ -29,7 +29,8 @@ app.post("/register", async (req, res) => {
 
     if (user) {
         if (user.name === name || user.id === id) {
-            return res.json("User Already Exits!")
+            UserAddress.create({ id: addressId, userId: id, address, city, state, country })
+            return res.json("User Already Exits, but Address of User is added to the Database.")
         }
     }
 
