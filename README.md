@@ -16,6 +16,9 @@
 "country": "India"
 }
 
+Postman API Handler Link:
+https://my-team-4321.postman.co/workspace/My-Team-Workspace~427632dc-4537-4365-86cd-4537740ebe3b/request/33016734-fae71879-54e7-42ef-b2c8-b1f3bd143bb2?action=share&creator=33016734&ctx=documentation
+
 
 # Warnings and Errors:
 
