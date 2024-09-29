@@ -16,6 +16,11 @@
 "country": "India"
 }
 
+
+# Warnings and Errors:
+
+In my project, an error is triggered and returned if the user's name or ID already exists in the database, ensuring that each entry is unique and preventing duplicate records from being created.
+
 # Key Dependencies used in the Project:
 
 In my project, I use several key dependencies to enhance the functionality and development workflow:
