@@ -1,5 +1,7 @@
 # Project Set Up:
 
+  Before running the server, ensure that you've made the necessary modifications to the database connection names, such as the database URL. I am using MongoDB Compass to visually manage and interact with the MongoDB database, which helps in monitoring collections, running queries, and verifying data changes efficiently.
+
 1. Open the terminal and navigate to the project directory.
 2. Run npm install to install all required dependencies from the package.json file.
 3. After the installation is complete, use the command npm start to start the server.
